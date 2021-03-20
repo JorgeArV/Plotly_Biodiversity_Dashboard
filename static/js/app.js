@@ -207,5 +207,3 @@ function initial_look(){
             console.log(id_table)
 
     })};
-
-
